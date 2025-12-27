@@ -1,0 +1,25 @@
+<input type="text" name="?" value="?" minlength="6"	 required />
+type="…"	The type of data that is being input
+value="…"	Default value
+name="…"	Used to describe this data in the HTTP request
+id="…"	Unique identifier that other HTML elements
+readonly	Stops the user from modifying
+disabled	Stops any interaction
+checked	The radio or checkbox select or not
+required	Being compulsory, See required
+placeholder="…"	Adds a temporary, See ::placeholder
+autocomplete="off"	Disable auto completion
+autocapitalize="none"	Disable auto capitalization
+inputmode="…"	Display a specific keyboard, See inputmode
+list="…"	The id of an associated datalist
+maxlength="…"	Maximum number of characters
+minlength="…"	Minimum number of characters
+min="…"	Minimum numerical value on range & number
+max="…"	Maximum numerical value on range & number
+step="…"	How the number will increment in range & number
+pattern="…"	Specifies a Regular expression, See pattern
+autofocus	Be focused
+spellcheck	Perform spell checking
+multiple	Whether to allow multiple values
+accept=""	Expected file type in file upload controls
+Also see: Attributes for the <input> element
